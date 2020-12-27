@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/web-experiments/experiment05/target/
+/web-experiments/experiment07/target/
+/web-practise/practise01/target/
